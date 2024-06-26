@@ -1,7 +1,6 @@
 # Jammy Cross
 
-![Jammy Cross Logo](![image](https://github.com/San4568GH/Jammy-Cross/assets/118655067/a5f68734-e97e-461a-9eca-72a5b80bb793)
-)
+![Jammy Cross Logo](https://github.com/San4568GH/Jammy-Cross/blob/main/jammymenu.jpg)
 
 Jammy Cross is an isometric 3D game built using Unity and features textures crafted in Blender.
 
